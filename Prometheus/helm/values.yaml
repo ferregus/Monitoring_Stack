@@ -1,0 +1,13 @@
+alertmanager:
+
+  persistentVolume:
+    enabled: false
+
+server:
+  persistentVolume:
+    enabled: false
+  service:
+  ## Prometheus data retention period (default if not specified is 15 days)
+  ##
+  retention: "30d"
+
