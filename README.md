@@ -1,5 +1,5 @@
 # Monitoring_Stack
-* Stack de monitoração para ambiente kubernetes / docker compose / dockerfile
+* Stack de monitoração para ambiente kubernetes / docker compose / dockerfile utilizando Grafana + Prometheus.
 
 
 # Objetivo do REPO
